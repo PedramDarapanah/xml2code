@@ -1,0 +1,5 @@
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Release\xml2code.exe.config
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Release\xml2code.exe
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Release\xml2code.pdb
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\obj\Release\xml2code.exe
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\obj\Release\xml2code.pdb

@@ -1,0 +1,6 @@
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Debug\xml2code.exe.config
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Debug\xml2code.exe
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\bin\Debug\xml2code.pdb
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\obj\Debug\xml2code.exe
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\obj\Debug\xml2code.pdb
+c:\users\pedram\documents\visual studio 2012\Projects\xml2code\xml2code\obj\Debug\xml2code.csprojResolveAssemblyReference.cache
