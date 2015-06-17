@@ -43,6 +43,9 @@ namespace xml2code
         static private void TraverseNodes(XmlNode node)
         {
             string name = node.LocalName;
+            
+            if (name == "xml") return;
+            
             XmlAttribute atribID = node.Attributes["android:id"];
             XmlAttribute atribName = node.Attributes["android:name"];
 
